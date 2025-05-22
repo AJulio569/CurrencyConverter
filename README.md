@@ -1,3 +1,6 @@
+
+![img](https://github.com/user-attachments/assets/6fec0fd5-c079-4c69-a07f-836372e1cf9a)
+
 # 💰 Conversor de Monedas  
 _Un proyecto Java para conversiones rápidas y precisas entre distintas divisas._  
 
@@ -18,18 +21,6 @@ Este conversor de monedas permite calcular valores entre diferentes divisas en t
 - **Gson** (Parseo de JSON)  
 - **BigDecimal y DecimalFormat** (Formateo y redondeo)  
 - **API ExchangeRate** (Fuente de tasas de cambio)  
-
-## 📂 Estructura del proyecto  
-CurrencyConverter/
-│── src/main/java/co/converter/
-│  ├── Main.java                          # Punto de entrada de la aplicación
-│  ├── models/ExchangeRate.java           # Modelo de datos para la API 
-│  ├── services/ApiService.java           # Comunicación con la API
-│  ├── utils/CurrencyUtils.java           # Formateo y redondeo de valores 
-│  ├── utils/CurrencyConverterUtils.java  # Lógica de conversión 
-│── build.gradle                          # Configuración de Gradle 
-│── README.md                             # Documentación del proyecto
-
 
 ## 🏗️ Instalación  
 ### 1️⃣ Clonar el repositorio  
